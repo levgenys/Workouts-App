@@ -13,7 +13,7 @@ presskit_download_link                    : # https://drive.google.com/drive/fol
 app_icon                                  : assets/app_icon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Workouts App                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Workouts is a simple & beautiful app for keeping track of all your workout & fitness related activities. Keep log of all your workouts whether at home or gym with ease.
+app_description                           : Track your workouts and progress with Workouts App. Create personalized plans, log sets and reps, and hit your fitness goals. Simple, powerful, and always at your fingertips.
 
 
 
@@ -37,37 +37,29 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Beautiful User Interface
-    description                           : No more clunky, difficult navigation. Easy to use app with beautiful UI and with Dark Mode.
-    fontawesome_icon_name                 : palette
-    
-  - title                                 : Custom Exercises
-    description                           : "Create your own unlimited exercises for free. No more overwhelming unnecessary exercises which you don't know about. Create exercises as you progress"
+  - title                                 : Ready-made and custom workouts
+    description                           : Choose from pre-built workout programs or create your own personalized routines.
     fontawesome_icon_name                 : dumbbell
+    
+  - title                                 : Workout calendar & stats
+    description                           : Track your workouts with a detailed calendar and view a summary of your monthly progress.
+    fontawesome_icon_name                 : calendar-alt
 
-  - title                                 : Workout Plan
-    description                           : Plan your workout ahead, create a draft for your workout & simply track it with single tap.
-    fontawesome_icon_name                 : file-alt
+  - title                                 : History
+    description                           : Keep a comprehensive history of all your workouts, with exercise grouping for easy navigation.
+    fontawesome_icon_name                 : history
 
-  - title                                 : Progress Graph
-    description                           : "Just the graph you need. No unnecessary complicated graph to show your progress that you don't understand."
-    fontawesome_icon_name                 : chart-line
+  - title                                 : Exercise grouping
+    description                           : Group your exercises for more efficient training sessions.
+    fontawesome_icon_name                 : layer-group
 
-  - title                                 : Custom App Icons
-    description                           : Want to stand out from the crowd? You can choose from multiple app icons.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Rest timer with push notifications
+    description                           : Stay on track with a rest timer that sends you push notifications when it’s time to get back to work.
+    fontawesome_icon_name                 : clock
   
-  - title                                 : Data Backup
-    description                           : "Your workout data gets backed up to your icloud account automatically so that you won't lose it ever."
+  - title                                 : Monthly summary
+    description                           : Get a quick overview of your monthly achievements, including total workouts, weight lifted, and time spent training.
     fontawesome_icon_name                 : sync
-
-  - title                                 : Calories Tracking
-    description                           : Track your daily calorie input
-    fontawesome_icon_name                 : fire-alt
-
-  - title                                 : Body Measurements
-    description                           : Measure size of various body parts related to your workouts & keep track of the progress.
-    fontawesome_icon_name                 : ruler
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
