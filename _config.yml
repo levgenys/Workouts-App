@@ -7,13 +7,13 @@ ios_app_country                           : us                                  
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://drive.google.com/drive/folders/1zgJDh38_obuG_Z6zG4sxAfAFdO8TzMZv?usp=sharing                                        # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    : # https://drive.google.com/drive/folders/1zgJDh38_obuG_Z6zG4sxAfAFdO8TzMZv?usp=sharing                                        # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/app_icon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Workouts-App                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Workouts App                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Gym Diary is a simple & beautiful app for keeping track of all your workout & fitness related activities. Keep log of all your workouts whether at home or gym with ease.
+app_description                           : Workouts is a simple & beautiful app for keeping track of all your workout & fitness related activities. Keep log of all your workouts whether at home or gym with ease.
 
 
 

@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**  
-December 27 2023
+August 2024
 
 # Terms of Service & Privacy Policy
 This policy applies to all the information collected or submitted on "Workouts" app for iOS platform. 
