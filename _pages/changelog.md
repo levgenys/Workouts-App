@@ -11,6 +11,15 @@ See the changelogs for each release of Workouts App here
 
 ### `Latest`
 
+## 1.1
+**Sep, 2024**
+Support Section Added: Now you can easily report issues, suggest improvements, copy the app link, and rate it in the App Store directly from the settings.
+
+New Workout Start Button: We've added a button to the navigation bar, allowing you to start a fresh workout without a program in just one tap.
+
+Bug Fixes & Stability Improvements: Various bugs have been squashed, and overall app performance is now smoother.
+
+
 ## 1.0
 **Aug, 2024**
 
