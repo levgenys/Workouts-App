@@ -11,6 +11,20 @@ See the changelogs for each release of Workouts App here
 
 ### `Latest`
 
+## 1.2
+**Feb, 2025**
+
+New Features & Improvements:
+- Unit selection – You can now switch between kg and lbs in the settings, and all weights will be converted accordingly, regardless of your region.
+- “Start Workout” block – Quickly start your next scheduled workout, repeat the last one, or create a new workout from scratch.
+- Swipe actions for exercises – Easily delete or replace an exercise in your current workout by swiping on the exercise cell.
+- New onboarding – A step-by-step guide for new users on how to add workouts.
+- Simplified exercise editing – The “Done” button now exits edit mode instead of finishing the workout.
+- Workout counter added – The history screen now displays the total number of completed workouts.
+
+Bug fixes and stability improvements.
+Update now and train more efficiently!
+
 ## 1.1
 **Sep, 2024**
 
