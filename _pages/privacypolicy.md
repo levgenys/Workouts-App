@@ -8,7 +8,7 @@ include_in_header: true
 August 2024
 
 # Terms of Service & Privacy Policy
-This policy applies to all the information collected or submitted on "Workouts" app for iOS platform. 
+This policy applies to all the information collected or submitted on "GIRYA" app for iOS platform. 
 
 <br>
 
@@ -22,7 +22,7 @@ By using this app, You consent to all the privacy policies from above platforms.
 ## Data Collection & Privacy
 We take user privacy very seriously. We use apple's iCloud platform for syncing your workouts data. All the workouts related data are very private and tied to your apple id. Only you have access to your workout data. For maintaining and enriching the experience of the user, we collect some other analytics data. This helps us to fix any issues & enrich the app experience for you. We do not collect any analytics data that can be used to identify you and We do not sell or share any data with any other third parties. 
 
-In the future, we may change our Data Collection & Privacy policy. All rights will be reserved to the Workouts.
+In the future, we may change our Data Collection & Privacy policy. All rights will be reserved to the GIRYA.
 
 ## Accessing, changing or deleting your information
 All your workout information is tied to your apple id in your iCloud account. Only you have access to your data. As a result, only you can access & make changes to your workout data. Not even us. App does provides an option to delete all workout data. 
@@ -36,7 +36,7 @@ Payment will be charged to your iTunes account (Apple ID) at the confirmation of
 
 You can always restore your previous purchases through the "Purchase" page on app.  Tap on "Restore Purchase" button and we will take care of the rest.
 
-Workouts reserves the right to change the premium features anytime. 
+GIRYA reserves the right to change the premium features anytime. 
 
 ## User Consent
 By using this app, you consent to our terms of service & privacy policy. 
@@ -44,4 +44,4 @@ By using this app, you consent to our terms of service & privacy policy.
 <br>
 
 ## Contact
-If you have any queries, you can always email at levgenys11@gmail.com.
+If you have any queries, you can always email at girya.app@gmail.com.
