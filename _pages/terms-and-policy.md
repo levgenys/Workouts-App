@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Terms of Service & Privacy Policy
+title: Terms of Use & Privacy Policy
 include_in_header: true
 ---
 
 **Last updated**  
 August 2024
 
-# Terms of Service & Privacy Policy
+# Terms of Use & Privacy Policy
 This policy applies to all the information collected or submitted on "GIRYA" app for iOS platform. 
 
 <br>
@@ -39,7 +39,7 @@ You can always restore your previous purchases through the "Purchase" page on ap
 GIRYA reserves the right to change the premium features anytime. 
 
 ## User Consent
-By using this app, you consent to our terms of service & privacy policy. 
+By using this app, you consent to our terms of use & privacy policy. 
 
 <br>
 
